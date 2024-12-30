@@ -1,0 +1,19 @@
+*.class
+.gradle
+/build
+/bin/
+/.settings/
+.project
+.classpath
+.idea
+/out/
+dist/*
+sam-template.yml
+src/main/.aws-sam/build/Function/lib/*
+# Package Files
+*.war
+*.ear
+
+.DS_Store
+/node_modules
+/smart-contracts.iml
